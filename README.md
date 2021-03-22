@@ -23,7 +23,7 @@ For the back-end, implement the following steps:
 
 ## Front-end
 
-1. Set-up a React application
+1. Set-up a front-end application in your framework of choice (React highly preferred)
 2. With the data returned from the server `/list` endpoint implement an image gallery in the client folder
 3. Create a filter functionality that let the user filter the images by name and tag
 4. Implement the possibility to filter by multiple tags at the same time
